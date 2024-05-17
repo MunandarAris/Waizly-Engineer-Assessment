@@ -22,3 +22,10 @@
 3. Run the app
 ` npm run dev
 `
+
+##### Preview
+![image](https://github.com/MunandarAris/Waizly-Engineer-Assessment/assets/67866358/c17599e6-7412-42eb-80ca-b762933d97f1)
+![image](https://github.com/MunandarAris/Waizly-Engineer-Assessment/assets/67866358/1b3897af-0406-4d2e-a215-d49af9194fa4)
+![image](https://github.com/MunandarAris/Waizly-Engineer-Assessment/assets/67866358/b2339507-3b96-4bee-85d6-a49308aa03f6)
+
+
